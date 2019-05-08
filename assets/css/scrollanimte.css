@@ -1,0 +1,34 @@
+.module {
+  /*width: 48%;
+  min-height: 200px;
+  background: white;
+  */position: relative;
+/*  float: left;
+  padding: 20px;
+  margin-right: 4%;
+  margin-bottom: 4%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);*/
+}
+.module:nth-child(even) {
+  margin-right: 0;
+}
+
+.come-in {
+  transform: translateY(250px);
+  animation: come-in 1.5s ease forwards;
+}
+
+.come-in:nth-child(odd) {
+  animation-duration: 1.2s;
+}
+
+.already-visible {
+  transform: translateY(0);
+  animation: none;
+}
+
+@keyframes come-in {
+  to {
+    transform: translateY(0);
+  }
+}
