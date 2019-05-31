@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table1" max_length="40" name="x_351891_ika_table1" type="collection">
+        <element label="Stu name" max_length="100" name="stu_name" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="student">9a72e174db31330041dd9444ca9619c9</application>
+        <filter/>
+        <name>students</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_351891_ika.student_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-05-31 05:42:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9e72e174db31330041dd9444ca9619cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>students</sys_name>
+        <sys_package display_value="ika" source="x_351891_ika">38cdd570db31330041dd9444ca961960</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="ika">38cdd570db31330041dd9444ca961960</sys_scope>
+        <sys_update_name>sys_ui_module_9e72e174db31330041dd9444ca9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-05-31 05:42:52</sys_updated_on>
+        <table>x_351891_ika_student</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
